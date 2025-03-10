@@ -1,131 +1,142 @@
 # 👋 Hi, I'm Dishant Kumar
 
-![Data Scientist](https://img.shields.io/badge/Data%20Scientist-Professional-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Engineer-green?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Developer-red?style=for-the-badge)
+<div align="center">
+  
+  [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-Professional-blue?style=for-the-badge)](https://github.com/Dishant27)
+  [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Engineer-green?style=for-the-badge)](https://github.com/Dishant27)
+  [![AI](https://img.shields.io/badge/AI-Developer-red?style=for-the-badge)](https://github.com/Dishant27)
 
-> **Transforming data into actionable insights and building intelligent systems.**
+</div>
+
+<p align="center">
+  <i>Transforming data into actionable insights and building intelligent systems.</i>
+</p>
 
 ## 🚀 About Me
 
-Dynamic Data Scientist with over 3 years of experience in SaaS, integrating cloud computing and IoT for advanced data analytics and machine learning-powered solutions. Expertise in developing AI-driven products, leveraging Generative AI and large language models (LLMs) for efficient data collection and management. Proven ability to lead projects from concept to completion, focusing on scalability and performance.
+Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learning. Passionate about developing AI-driven products and implementing sustainable solutions using cutting-edge technologies. My work spans across SaaS platforms, IoT integrations, and cloud computing applications.
 
-- 🔭 Currently working on advanced machine learning projects with LLMs and Generative AI
-- 🌱 Exploring cutting-edge applications of AI in sustainability and resource optimization
-- 👯 Open to collaborations on innovative data science and AI-driven projects
-- 💬 Ask me about data science, machine learning, cloud integration, and IoT applications
+- 🔭 Working on advanced machine learning projects with LLMs and Generative AI
+- 🌱 Exploring sustainable applications of AI and IoT
+- 👯 Open to collaborations on innovative data science projects
+- 💬 Ask me about data science, machine learning, and AI applications
 
-## 💼 Professional Experience
+## 💻 Tech Stack
 
-### Product Lead | CarbonCompete, Chennai
-*06/2023 - 06/2024*
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  
+</div>
 
-- Spearheaded the development of a comprehensive SaaS product incorporating AI features for enhanced data collection and schema construction, achieving a 90% improvement in data collection
-- Patented unique AI features leveraging large language models (LLMs) for advanced data handling and analysis
-- Implemented Generative AI techniques to automate data preprocessing and feature engineering, enhancing model performance and efficiency
+## 🔥 Expertise
 
-### Senior Machine Learning Engineer | ZeroTEnergy, Chennai
-*11/2021 - 06/2023*
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+      <br>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
+      <br>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
+      <br>Azure
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+      <br>AWS
+    </td>
+  </tr>
+</table>
 
-- Refined AI and machine learning operations for sustainable solutions, integrating MLOps and cloud functions
-- Enhanced platform analytics capabilities by integrating IoT devices, boosting data collection efficiency by 85%
-- Developed advanced machine learning models to predict energy consumption trends and optimize resource utilization
-
-### Data Science Intern | The Sparks Foundation
-*06/2021 - 07/2021*
-
-- Conducted data exploration and analysis, utilizing machine learning techniques to support sustainability initiatives
-
-## 💻 Technical Skills
-
-### Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0A9EDC?style=flat-square&logo=samsung&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### Areas of Expertise
-
-- **Artificial Intelligence**: Generative AI, Large Language Models (LLMs), Neural Networks
-- **Machine Learning**: Regression, Classification, Clustering, Ensemble Methods
-- **Deep Learning**: CNNs, RNNs, Transformers, Transfer Learning
-- **Cloud Computing**: AWS, Azure, GCP, Serverless Architecture
-- **IoT Applications**: Sensor Data Integration, Real-time Analytics
-- **Data Engineering**: ETL Pipelines, Data Warehousing, Big Data
-- **Natural Language Processing**: Text Classification, Sentiment Analysis, Entity Recognition
-- **Project Management**: Agile Methodologies, Team Leadership, Stakeholder Engagement
+- **AI & ML**: Generative AI, LLMs, Neural Networks, Classification, Regression
+- **Data Science**: Exploratory Analysis, Feature Engineering, Model Development
+- **Cloud & IoT**: AWS, Azure, GCP, Sensor Integration, Real-time Analytics
+- **Tools & Frameworks**: TensorFlow, PyTorch, scikit-learn, pandas, NLTK
 
 ## 📊 Featured Projects
 
-### [Football Player Analysis](https://github.com/Dishant27/Football_Analysis)
-Data-driven approach to football player analysis, team building, and performance prediction using machine learning.
+<div style="display: flex; justify-content: space-between;">
 
-### [Twitter Sentiment Analysis](https://github.com/Dishant27/Twitter_Sentiment_Analysis)
-NLP project to classify tweets as hate speech or not using various machine learning algorithms with 95% accuracy.
+<a href="https://github.com/Dishant27/Football_Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=Football_Analysis&theme=dark" />
+</a>
 
-### [Image Classification](https://github.com/Dishant27/Image-Classification)
-CNN-based model for image classification using TensorFlow and Keras, demonstrating computer vision capabilities.
+<a href="https://github.com/Dishant27/Twitter_Sentiment_Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=Twitter_Sentiment_Analysis&theme=dark" />
+</a>
 
-### [ChatBot Python](https://github.com/Dishant27/ChatBot_python)
-Intelligent conversational agent built with NLTK and TensorFlow for natural language understanding.
+</div>
 
-### [Diabetes Predictor](https://github.com/Dishant27/Diabetes_Predictor)
-End-to-End ML project for diabetes prediction, deployed on Heroku with Flask for user interaction.
+<div style="display: flex; justify-content: space-between;">
 
-### [Data Science Salary Estimator](https://github.com/Dishant27/DS_proj)
-Predicting data scientist salaries based on various factors using web scraping and ML techniques.
+<a href="https://github.com/Dishant27/Image-Classification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=Image-Classification&theme=dark" />
+</a>
 
-## 🎓 Education
+<a href="https://github.com/Dishant27/ChatBot_python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=ChatBot_python&theme=dark" />
+</a>
 
-- **Bachelor of Technology (B.Tech)**: Computer Science, 01/2020
-  - University Of Engineering & Management Jaipur - Jaipur, Rajasthan
+</div>
 
-## 🏆 Certifications
+## 📈 GitHub Analytics
 
-- Understanding & Managing Carbon Accounting: A Masterclass (Udemy)
-- SAP integration suite associate (SAP)
-- Machine Learning Training (Internshala)
-- Software engineering (IIT Madras)
-- Problem Solving through C (IIT Madras)
-- Programming in C++ (IIT Madras)
-- Technical English for Engineers (IIT Madras)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dishant27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant27&layout=compact&langs_count=8&theme=radical" />
+</div>
 
-## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishant27&theme=radical" alt="Dishant's GitHub streak"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dishant27&show_icons=true&theme=radical" alt="Dishant's GitHub Stats" />
+## 🏆 Achievements & Certifications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant27&layout=compact&theme=radical" alt="Top Languages" />
+- 🏅 SAP Integration Suite Associate
+- 🏅 Understanding & Managing Carbon Accounting Masterclass
+- 🏅 IIT Madras Software Engineering Certification
+- 🏅 Machine Learning Training
 
-## 📫 How to Reach Me
+## 🌐 Connect With Me
 
-- **Phone**: +91 8769251626
-- **Email**: dishantraghav27@gmail.com
-- **LinkedIn**: [Dishant Kumar](https://www.linkedin.com/in/dishant-kumar-538125139/)
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-dishantraghav27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishantraghav27@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dishant_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-kumar-538125139/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-DishantSR-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dishantsr)
+  [![Medium](https://img.shields.io/badge/Medium-@dishantraghav27-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dishantraghav27)
+  
+</div>
 
-## 🔗 Profiles
-
-- **GitHub**: [Dishant27](https://github.com/Dishant27)
-- **Kaggle**: [DishantSR](https://www.kaggle.com/dishantsr)
-- **Medium**: [@dishantraghav27](https://medium.com/@dishantraghav27)
-- **Bold.pro**: [Dishant](https://bold.pro/my/dishant/717r)
-
-## ⚡ Fun Fact
-
-I believe that data has stories to tell, and I'm passionate about uncovering those narratives through analysis and visualization!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dishant27&style=flat-square&color=blue" alt="Profile views counter"/>
+</div>
 
 ---
 
-⭐️ From [Dishant27](https://github.com/Dishant27)
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/Dishant27">Dishant27</a> ⭐️</i>
+</div>
