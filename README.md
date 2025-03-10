@@ -120,7 +120,7 @@ Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learni
         <h3 align="center">Twitter Sentiment Analysis</h3>
         <p align="center">
           <a href="https://github.com/Dishant27/Twitter_Sentiment_Analysis">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwa2E1OWV1YTFjeWlzMW93eW9zZmJveWRlZDJpeWw2dGgxbjh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWpK88H1g9PtmtQly1/giphy.gif" width="100%" alt="Twitter Sentiment Analysis"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdxZW9uMTB1aTVsMnZsM2tpbGh6NTZoY3dtOGVlcDFhYzZucmFweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rIYsVhVqJr7Z2tLaA3/giphy.gif" width="100%" alt="Twitter Sentiment Analysis"/>
           </a>
           <p align="center">
             NLP model for tweet sentiment classification with 95% accuracy
