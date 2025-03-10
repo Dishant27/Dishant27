@@ -91,7 +91,7 @@ Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learni
         <br>MongoDB
       </td>
       <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" width="60" height="60"/>
+        <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="60" height="60"/>
         <br>Streamlit
       </td>
     </tr>
@@ -105,23 +105,17 @@ Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learni
 
 ## 📊 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Dishant27/Football_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=Football_Analysis&theme=radical" />
-  </a>
-  <a href="https://github.com/Dishant27/Twitter_Sentiment_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=Twitter_Sentiment_Analysis&theme=radical" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/Dishant27/Image-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=Image-Classification&theme=radical" />
-  </a>
-  <a href="https://github.com/Dishant27/ChatBot_python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishant27&repo=ChatBot_python&theme=radical" />
-  </a>
-</div>
+- **[Football Player Analysis](https://github.com/Dishant27/Football_Analysis)** - Data-driven approach to football player analysis, team building, and performance prediction using machine learning.
+  
+- **[Twitter Sentiment Analysis](https://github.com/Dishant27/Twitter_Sentiment_Analysis)** - NLP project to classify tweets as hate speech or not using various machine learning algorithms with 95% accuracy.
+  
+- **[Image Classification](https://github.com/Dishant27/Image-Classification)** - CNN-based model for image classification using TensorFlow and Keras, demonstrating computer vision capabilities.
+  
+- **[ChatBot Python](https://github.com/Dishant27/ChatBot_python)** - Intelligent conversational agent built with NLTK and TensorFlow for natural language understanding.
+  
+- **[Diabetes Predictor](https://github.com/Dishant27/Diabetes_Predictor)** - End-to-End ML project for diabetes prediction, deployed on Heroku with Flask for user interaction.
+  
+- **[Data Science Salary Estimator](https://github.com/Dishant27/DS_proj)** - Predicting data scientist salaries based on various factors using web scraping and ML techniques.
 
 ## 🏆 Achievements & Certifications
 
