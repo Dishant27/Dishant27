@@ -22,6 +22,14 @@ Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learni
 - 💬 Ask me about data science, machine learning, and AI applications
 - 📍 Gurugram
 
+## 🌱 Current Learning Journey
+
+- 🧠 LangChain Framework [█████████-] 92%
+- 🔄 FlowiseAI Development [████████▓-] 90%
+- 🌊 LangFlow [████████--] 80%
+- 🔍 Advanced LLM Fine-tuning [███████---] 70%
+- 🚀 MLOps Deployment Patterns [████------] 40%
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -102,6 +110,37 @@ Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learni
 - **Data Science**: Exploratory Analysis, Feature Engineering, Model Development
 - **Cloud & IoT**: AWS, Azure, GCP, DigitalOcean, Sensor Integration, Real-time Analytics
 - **Tools & Frameworks**: TensorFlow, PyTorch, scikit-learn, pandas, NLTK, Streamlit
+
+## 📊 AI Project Showcase
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Twitter Sentiment Analysis</h3>
+        <p align="center">
+          <a href="https://github.com/Dishant27/Twitter_Sentiment_Analysis">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwa2E1OWV1YTFjeWlzMW93eW9zZmJveWRlZDJpeWw2dGgxbjh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWpK88H1g9PtmtQly1/giphy.gif" width="100%" alt="Twitter Sentiment Analysis"/>
+          </a>
+          <p align="center">
+            NLP model for tweet sentiment classification with 95% accuracy
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">ChatBot Implementation</h3>
+        <p align="center">
+          <a href="https://github.com/Dishant27/ChatBot_python">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN3Y2RrM3M3dTl2ZXdjcGZwMGd0Mjg3ODVodjFjaHJ3bTdzOTVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif" width="100%" alt="ChatBot"/>
+          </a>
+          <p align="center">
+            Intelligent conversational agent built with NLTK and TensorFlow
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 Featured Projects
 
