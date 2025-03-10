@@ -91,7 +91,7 @@ Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learni
         <br>MongoDB
       </td>
       <td align="center">
-        <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" width="60" height="60"/>
         <br>Streamlit
       </td>
     </tr>
