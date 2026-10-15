@@ -45,8 +45,3 @@ SAP Integration Suite Associate · IIT Madras Software Engineering Certification
 [![Medium](https://img.shields.io/badge/Medium-@dishantraghav27-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dishantraghav27)
 [![Kaggle](https://img.shields.io/badge/Kaggle-DishantSR-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dishantsr)
 [![Email](https://img.shields.io/badge/Email-dishantraghav27%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishantraghav27@gmail.com)
-
-<!-- Optional stats card: the public github-readme-stats instance is sometimes rate-limited; delete this block if it shows an error. -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishant27&show_icons=true&hide_border=true&count_private=false" alt="Dishant's GitHub stats" height="150"/>
-</p>
