@@ -1,186 +1,52 @@
-# 👋 Hi, I'm Dishant Kumar
+# Hi, I'm Dishant Kumar 👋
 
-<div align="center">
-  
-  [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-Professional-blue?style=for-the-badge)](https://github.com/Dishant27)
-  [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Engineer-green?style=for-the-badge)](https://github.com/Dishant27)
-  [![AI](https://img.shields.io/badge/AI-Developer-red?style=for-the-badge)](https://github.com/Dishant27)
+**Data Scientist & ML Engineer at NuSummit** · New Delhi | Gurugram
 
-</div>
+I build **MCP servers and GenAI/LLM tools** that connect AI assistants to real platforms like LinkedIn, Medium, Kaggle and X. I also work on ML products with IoT and cloud integrations, mostly in Python, LangChain and TypeScript.
 
-<p align="center">
-  <i>Transforming data into actionable insights and building intelligent systems.</i>
-</p>
-
-## 🚀 About Me
-
-Dynamic Data Scientist with expertise in Generative AI, LLMs, and machine learning. Passionate about developing AI-driven products and implementing sustainable solutions using cutting-edge technologies. My work spans across SaaS platforms, IoT integrations, and cloud computing applications.
-
-- 🔭 Working on advanced machine learning projects with LLMs and Generative AI
-- 🌱 Exploring sustainable applications of AI and IoT
-- 👯 Open to collaborations on innovative data science projects
-- 💬 Ask me about data science, machine learning, and AI applications
-- 📍 Gurugram
-
-## 🌱 Current Learning Journey
-
-- 🧠 LangChain Framework [█████████-] 92%
-- 🔄 FlowiseAI Development [████████▓-] 90%
-- 🌊 LangFlow [████████--] 80%
-- 🔍 Advanced LLM Fine-tuning [███████---] 70%
-- 🚀 MLOps Deployment Patterns [████------] 40%
-
-## 💻 Tech Stack
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  
-</div>
-
-## 🔥 Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-        <br>Python
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/>
-        <br>TensorFlow
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
-        <br>PyTorch
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="60" height="60"/>
-        <br>Azure
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
-        <br>AWS
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" height="60"/>
-        <br>GCP
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="60" height="60"/>
-        <br>DigitalOcean
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
-        <br>PostgreSQL
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-        <br>MongoDB
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" width="60" height="60"/>
-        <br>Streamlit
-      </td>
-    </tr>
-  </table>
-</div>
-
-- **AI & ML**: Generative AI, LLMs, Neural Networks, Classification, Regression
-- **Data Science**: Exploratory Analysis, Feature Engineering, Model Development
-- **Cloud & IoT**: AWS, Azure, GCP, DigitalOcean, Sensor Integration, Real-time Analytics
-- **Tools & Frameworks**: TensorFlow, PyTorch, scikit-learn, pandas, NLTK, Streamlit
-
-## 📊 AI Project Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Twitter Sentiment Analysis</h3>
-        <p align="center">
-          <a href="https://github.com/Dishant27/Twitter_Sentiment_Analysis">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdxZW9uMTB1aTVsMnZsM2tpbGh6NTZoY3dtOGVlcDFhYzZucmFweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rIYsVhVqJr7Z2tLaA3/giphy.gif" width="100%" alt="Twitter Sentiment Analysis"/>
-          </a>
-          <p align="center">
-            NLP model for tweet sentiment classification with 95% accuracy
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">ChatBot Implementation</h3>
-        <p align="center">
-          <a href="https://github.com/Dishant27/ChatBot_python">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN3Y2RrM3M3dTl2ZXdjcGZwMGd0Mjg3ODVodjFjaHJ3bTdzOTVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif" width="100%" alt="ChatBot"/>
-          </a>
-          <p align="center">
-            Intelligent conversational agent built with NLTK and TensorFlow
-          </p>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Featured Projects
-
-- **[Football Player Analysis](https://github.com/Dishant27/Football_Analysis)** - Data-driven approach to football player analysis, team building, and performance prediction using machine learning.
-  
-- **[Twitter Sentiment Analysis](https://github.com/Dishant27/Twitter_Sentiment_Analysis)** - NLP project to classify tweets as hate speech or not using various machine learning algorithms with 95% accuracy.
-  
-- **[Image Classification](https://github.com/Dishant27/Image-Classification)** - CNN-based model for image classification using TensorFlow and Keras, demonstrating computer vision capabilities.
-  
-- **[ChatBot Python](https://github.com/Dishant27/ChatBot_python)** - Intelligent conversational agent built with NLTK and TensorFlow for natural language understanding.
-  
-- **[Diabetes Predictor](https://github.com/Dishant27/Diabetes_Predictor)** - End-to-End ML project for diabetes prediction, deployed on Heroku with Flask for user interaction.
-  
-- **[Data Science Salary Estimator](https://github.com/Dishant27/DS_proj)** - Predicting data scientist salaries based on various factors using web scraping and ML techniques.
-
-## 🏆 Achievements & Certifications
-
-- 🏅 SAP Integration Suite Associate
-- 🏅 Understanding & Managing Carbon Accounting Masterclass
-- 🏅 IIT Madras Software Engineering Certification
-- 🏅 Machine Learning Training
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-dishantraghav27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishantraghav27@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dishant_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-kumar-538125139/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-DishantSR-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dishantsr)
-  [![Medium](https://img.shields.io/badge/Medium-@dishantraghav27-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dishantraghav27)
-  [![Twitter](https://img.shields.io/badge/Twitter-@DishantSR-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DishantSR)
-  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dishant27&style=flat-square&color=blue" alt="Profile views counter"/>
-</div>
+🌐 [dishants.vercel.app](https://dishants.vercel.app/) · 𝕏 [@DishantSR](https://x.com/DishantSR)
 
 ---
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Dishant27">Dishant27</a> ⭐️</i>
-</div>
+## 🔌 Featured: MCP servers
+
+| Project | What it does | Stars |
+|---|---|---|
+| [**linkedin-mcp-server**](https://github.com/Dishant27/linkedin-mcp-server) | MCP server that connects LLM assistants such as Claude to the LinkedIn API | ![Stars](https://img.shields.io/github/stars/Dishant27/linkedin-mcp-server?style=flat-square) |
+| [**medium-mcp-server**](https://github.com/Dishant27/medium-mcp-server) | MCP server for Medium, for AI-assisted content retrieval and publishing workflows | ![Stars](https://img.shields.io/github/stars/Dishant27/medium-mcp-server?style=flat-square) |
+| [**kaggle-MCP**](https://github.com/Dishant27/kaggle-MCP) | MCP server for working with Kaggle competitions from an AI assistant | ![Stars](https://img.shields.io/github/stars/Dishant27/kaggle-MCP?style=flat-square) |
+| [**twitter-mcp**](https://github.com/Dishant27/twitter-mcp) | MCP server for X (Twitter), for create/read/update/delete actions through the X API | ![Stars](https://img.shields.io/github/stars/Dishant27/twitter-mcp?style=flat-square) |
+
+## 🛠️ Tech stack
+
+**AI / ML:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+
+**Apps & data:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+**Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+## 📊 Earlier data science work
+
+- [Football_Analysis](https://github.com/Dishant27/Football_Analysis): player attribute analysis and a predicted World XI
+- [Image-Classification](https://github.com/Dishant27/Image-Classification): CNN image classifier on CIFAR-10 with TensorFlow/Keras
+- [Diabetes_Predictor](https://github.com/Dishant27/Diabetes_Predictor): end-to-end diabetes prediction app built with Flask
+- [ChatBot_python](https://github.com/Dishant27/ChatBot_python): intent-based chatbot built with NLTK and TensorFlow
+- [Twitter_Sentiment_Analysis](https://github.com/Dishant27/Twitter_Sentiment_Analysis): NLP classification of tweets for hate speech
+
+## 🏅 Certifications
+
+SAP Integration Suite Associate · IIT Madras Software Engineering Certification · Understanding & Managing Carbon Accounting Masterclass · Machine Learning Training
+
+## 📫 Connect
+
+[![Website](https://img.shields.io/badge/Website-dishants.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://dishants.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dishant_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-kumar-538125139/)
+[![X](https://img.shields.io/badge/X-@DishantSR-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DishantSR)
+[![Medium](https://img.shields.io/badge/Medium-@dishantraghav27-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dishantraghav27)
+[![Kaggle](https://img.shields.io/badge/Kaggle-DishantSR-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dishantsr)
+[![Email](https://img.shields.io/badge/Email-dishantraghav27%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishantraghav27@gmail.com)
+
+<!-- Optional stats card: the public github-readme-stats instance is sometimes rate-limited; delete this block if it shows an error. -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dishant27&show_icons=true&hide_border=true&count_private=false" alt="Dishant's GitHub stats" height="150"/>
+</p>
