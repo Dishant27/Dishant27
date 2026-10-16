@@ -6,6 +6,8 @@ I build **MCP servers and GenAI/LLM tools** that connect AI assistants to real p
 
 🌐 [dishants.vercel.app](https://dishants.vercel.app/) · 𝕏 [@DishantSR](https://x.com/DishantSR)
 
+🧪 Shipping an LLM or RAG app? I run a fixed-price **[$99 LLM/RAG Quick Audit](https://contra.com/s/LFQrW7og-llm-rag-quick-audit)** on Contra.
+
 ---
 
 ## 🔌 Featured: MCP servers
@@ -44,4 +46,5 @@ SAP Integration Suite Associate · IIT Madras Software Engineering Certification
 [![X](https://img.shields.io/badge/X-@DishantSR-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DishantSR)
 [![Medium](https://img.shields.io/badge/Medium-@dishantraghav27-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dishantraghav27)
 [![Kaggle](https://img.shields.io/badge/Kaggle-DishantSR-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dishantsr)
+[![Contra](https://img.shields.io/badge/Contra-%2499_LLM%2FRAG_Quick_Audit-000000?style=flat-square)](https://contra.com/s/LFQrW7og-llm-rag-quick-audit)
 [![Email](https://img.shields.io/badge/Email-dishantraghav27%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishantraghav27@gmail.com)
